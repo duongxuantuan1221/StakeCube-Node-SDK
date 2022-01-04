@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/JSKitty/StakeCube-Node-SDK.git"
   },
-  "keywords": [6378b80dd95c392e43a3aba915e0ebe7b728a7b77f5862e2716b2e58537303a4
+  "keywords": [
     "stakecube",
-    "api",
+    "api",6378b80dd95c392e43a3aba915e0ebe7b728a7b77f5862e2716b2e58537303a4
     "sdk",
     "stake",
     "staking",
